@@ -45,8 +45,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+<img width="1906" height="1037" alt="Screenshot 2025-11-19 153732" src="https://github.com/user-attachments/assets/1a687586-ec4a-4daa-993b-e84b70b47edf" />
+
+### Name:Dhanashree A
+### Register Number:212224040065
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
